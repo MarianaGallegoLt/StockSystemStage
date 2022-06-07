@@ -1,0 +1,17 @@
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.Core.deps.json
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.Core.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.Core.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.DataAccess.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.Entities.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.DataAccess.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\bin\Debug\net5.0\StockSystem.Entities.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.csproj.AssemblyReference.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.AssemblyInfoInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.AssemblyInfo.cs
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.csproj.CopyComplete
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\refint\StockSystem.Core.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\StockSystem.Core.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Core\obj\Debug\net5.0\ref\StockSystem.Core.dll

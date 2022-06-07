@@ -1,0 +1,12 @@
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\bin\Debug\net5.0\StockSystem.Entities.deps.json
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\bin\Debug\net5.0\StockSystem.Entities.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\bin\Debug\net5.0\StockSystem.Entities.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.AssemblyInfo.cs
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\refint\StockSystem.Entities.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\StockSystem.Entities.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.Entities\obj\Debug\net5.0\ref\StockSystem.Entities.dll

@@ -1,0 +1,15 @@
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\bin\Debug\net5.0\StockSystem.DataAccess.deps.json
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\bin\Debug\net5.0\StockSystem.DataAccess.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\bin\Debug\net5.0\StockSystem.DataAccess.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\bin\Debug\net5.0\StockSystem.Entities.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\bin\Debug\net5.0\StockSystem.Entities.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.AssemblyInfo.cs
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.csproj.CopyComplete
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\refint\StockSystem.DataAccess.dll
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\StockSystem.DataAccess.pdb
+C:\Users\MARIANA GALLEGO\OneDrive\Escritorio\Back-end\Evaluaciones\stage-3\StockSystem.DataAccess\obj\Debug\net5.0\ref\StockSystem.DataAccess.dll
